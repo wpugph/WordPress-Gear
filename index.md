@@ -342,6 +342,7 @@ Theme Stuff
 -   [Timber](https://github.com/timber/timber) - Write your theme using Twig templates (similar to Mustache, Handlebars, etc.)
 -   [Cutlass](https://github.com/zach-adams/cutlass-wp-theme) - Develop your theme using Laravel's Blade Templating Engine
 -   [Sprig](https://github.com/zach-adams/sprig) - Develop your theme using the Twig Templating Engine (similar to Timber)
+-   [Underscores](https://underscores.me/) - WordPress starter theme generator
 
 If you are looking for theme option frameworks, look above under "Framework stuff".
 
